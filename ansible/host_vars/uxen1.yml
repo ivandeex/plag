@@ -1,0 +1,15 @@
+---
+ansible_connection: local
+ansible_python_interpreter: /usr/bin/python3
+
+project_name: 'prag-dev'
+
+nginx_site_dir: /etc/nginx/sites-enabled
+nginx_base_url: "{{ secret.hosts.uxen1.nginx_base_url }}"
+
+postgres: "{{ secret.hosts.uxen1.postgres }}"
+
+host_settings:
+  wsgi_port: "{{ secret.hosts.uxen1.wsgi_port }}"
+  internal_ips: "{{ secret.hosts.uxen1.internal_ips }}"
+...

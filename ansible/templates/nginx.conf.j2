@@ -1,0 +1,20 @@
+upstream {{ project_name|replace('-', '_') }} {
+  server 127.0.0.1:{{ settings.port }};
+}
+
+server {
+  server_name {{ project_name }}.{{ nginx_base_url }};
+  listen 80;
+
+  location / {
+    proxy_pass http://{{ project_name|replace('-', '_') }};
+    proxy_set_header Host            $http_host;
+    proxy_set_header X-Real-IP       $remote_addr;
+    proxy_set_header X-Forwared-For  $proxy_add_x_forwarded_for;
+  }
+
+  location /protected/ {
+    internal;
+    alias {{ source_dir }}/temp/;
+  }
+}

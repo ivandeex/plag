@@ -1,0 +1,30 @@
+---
+source_dir: "{{ inventory_dir|dirname }}"
+virtenv_dir: "{{ ansible_env.HOME }}/vens/prag"
+
+postgres_url: "postgres://{{postgres.username}}:{{postgres.password}}@{{postgres.host}}:{{postgres.port}}/{{postgres.database}}?{{postgres.options}}"
+
+settings:
+  secret_key: "{{ secret.settings.secret_key }}"
+  database_url: "{{ postgres_url }}"
+
+  # for django in production mode
+  nginx_sendfile_url: /protected/
+  allowed_hosts: "{{ project_name }}.{{ nginx_base_url }}"
+  port: "{{ host_settings.wsgi_port }}"
+
+  # development settings
+  dev_host: "{{ project_name }}.{{ nginx_base_url }}"
+  dev_port: 33333
+  # for django debug toolbar et al
+  internal_ips: "{{ host_settings.internal_ips }}"
+
+  debug: 0
+  debug_sql: 0
+  debug_ext: 0
+  debug_toolbar: 0
+  test_liveserver: 0
+
+  # make gunicorn emit django stdout without delays
+  pythonunbuffered: 1
+...
