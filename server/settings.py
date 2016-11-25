@@ -65,6 +65,8 @@ TIME_ZONE = 'UTC'
 # Applications
 
 INSTALLED_APPS = [
+    'prag',
+
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

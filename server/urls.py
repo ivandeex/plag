@@ -8,6 +8,7 @@ from django.conf import settings
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^', include('prag.server.urls'))
 ]
 
 if settings.DEBUG and settings.DEBUG_TOOLBAR_ENABLED:
