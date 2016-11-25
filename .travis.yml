@@ -1,0 +1,30 @@
+# Note: Since 2015 newer travis repositories build on so called container
+#       environment without sudo support. That's fine, I don't need sudo, but..
+# Beware: Travis YAML validator _may_ fail with "Error creating build script"
+#         even when it finds the "sudo" word *within yaml comments*!
+# See: https://docs.travis-ci.com/user/ci-environment/#Virtualization-environments
+
+language: python
+python:
+  - 3.5
+services:
+  - postgresql
+env:
+  global:
+    # Note: Django test will actually prepend database name with "test_".
+    - DATABASE_URL=postgres://postgres@localhost/prag
+cache: pip
+install:
+  # Upgrade preinstalled pip to a recent version with wheel caching support:
+  - pip install -U pip==8.1.2
+  - pip install -r requirements/devel.pip
+before_script:
+  # As travis provides privileged postgres user, django test script can create
+  # and drop test databases, so `createdb -U postgres test_dz` is not needed.
+  # Prepare static assets. Use `-v0` to silence verbose whitenoise messages.
+  - python manage.py collectstatic --noinput -v0
+script:
+  # Use `-v2` to log individual tests. Unlike `make.sh`, don't use `--keep`.
+  - coverage run --source=. manage.py test -v2
+after_success:
+  - coveralls

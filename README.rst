@@ -1,3 +1,20 @@
+
+.. image:: https://travis-ci.org/ivandeex/prag.svg?branch=master
+    :target: https://travis-ci.org/ivandeex/prag
+    :alt: Build Status
+
+.. image:: https://coveralls.io/repos/github/ivandeex/prag/badge.svg?branch=master
+    :target: https://coveralls.io/github/ivandeex/prag?branch=master
+    :alt: Coverage Status
+
+.. image:: https://landscape.io/github/ivandeex/prag/master/landscape.svg?style=flat
+    :target: https://landscape.io/github/ivandeex/prag/master
+    :alt: Code Health
+
+.. image:: https://requires.io/github/ivandeex/prag/requirements.svg?branch=master
+    :target: https://requires.io/github/ivandeex/prag/requirements/?branch=master
+    :alt: Requirements Status
+
 ========
   PRAG
 ========

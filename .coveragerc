@@ -1,0 +1,28 @@
+[run]
+omit =
+    # See: http://coverage.readthedocs.io/en/coverage-4.2/source.html#execution
+    server/wsgi.py
+    server/urls.py
+    server/middleware.py
+
+[report]
+exclude_lines =
+    # See: http://coverage.readthedocs.io/en/coverage-4.2/excluding.html#advanced-exclusion
+
+    # Re-enable the standard pragma
+    pragma: no cover
+
+    # Debug-only code:
+    if self\.debug
+    if DEBUG
+    if settings\.DEBUG
+    def __repr__
+
+    # Defensive assertion code:
+    except ImportError:
+    raise AssertionError
+    raise NotImplementedError
+
+    # Non-runnable code:
+    if 0:
+    if __name__ == .__main__.:
