@@ -1,0 +1,6 @@
+Scrapy==1.2.1
+Twisted==16.6.0
+lxml==3.6.4
+requests==2.12.1
+python-dateutil==2.6.0
+dateparser==0.5
