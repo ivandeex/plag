@@ -1,0 +1,4290 @@
+[
+{
+  "model": "prag.proxy",
+  "pk": 2,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T20:04:01Z",
+    "country": "china",
+    "ip_addr": "211.143.45.216",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 3,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T20:04:01Z",
+    "country": "china",
+    "ip_addr": "27.191.234.69",
+    "port": 9999,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 32,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 4,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T20:03:13Z",
+    "country": "azerbaijan",
+    "ip_addr": "94.20.21.38",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 42,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 5,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T20:03:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.97",
+    "port": 85,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 35,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 6,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T20:03:13Z",
+    "country": "china",
+    "ip_addr": "124.88.67.83",
+    "port": 843,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 7,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T20:02:13Z",
+    "country": "china",
+    "ip_addr": "101.200.141.114",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 37,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 8,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T20:01:13Z",
+    "country": "thailand",
+    "ip_addr": "180.180.120.41",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 41,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 9,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T20:00:13Z",
+    "country": "china",
+    "ip_addr": "121.42.151.46",
+    "port": 81,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 94,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 10,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T20:00:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.98",
+    "port": 100,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 29,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 11,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T20:00:13Z",
+    "country": "usa",
+    "ip_addr": "52.198.84.159",
+    "port": 8090,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 44,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 12,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:59:13Z",
+    "country": "china",
+    "ip_addr": "124.88.67.22",
+    "port": 82,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 13,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:59:13Z",
+    "country": "china",
+    "ip_addr": "101.255.64.22",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 87,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 14,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:58:13Z",
+    "country": "china",
+    "ip_addr": "222.169.193.162",
+    "port": 8099,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 14,
+    "connect_qual": 91
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 15,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:58:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.97",
+    "port": 8085,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 26,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 16,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:57:13Z",
+    "country": "chile",
+    "ip_addr": "200.29.191.149",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 40,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 17,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:57:13Z",
+    "country": "china",
+    "ip_addr": "124.88.67.17",
+    "port": 82,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 18,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:57:13Z",
+    "country": "korea",
+    "ip_addr": "112.214.73.253",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 96,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 19,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:57:13Z",
+    "country": "usa",
+    "ip_addr": "149.56.35.226",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 7,
+    "connect_qual": 39
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 20,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:57:13Z",
+    "country": "iraq",
+    "ip_addr": "95.170.222.106",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 84,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 21,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:57:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.98",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 23,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 22,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:56:13Z",
+    "country": "china",
+    "ip_addr": "60.21.209.114",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 44,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 23,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:56:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.98",
+    "port": 93,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 33,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 24,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:56:13Z",
+    "country": "usa",
+    "ip_addr": "192.25.162.193",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "medium",
+    "speed_qual": 22,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 25,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:56:13Z",
+    "country": "china",
+    "ip_addr": "120.25.235.11",
+    "port": 8089,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 43,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 26,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:56:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.98",
+    "port": 98,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 28,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 27,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:55:13Z",
+    "country": "viet nam",
+    "ip_addr": "123.30.238.16",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 42,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 28,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:55:13Z",
+    "country": "china",
+    "ip_addr": "124.88.67.32",
+    "port": 83,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 29,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:54:13Z",
+    "country": "china",
+    "ip_addr": "202.194.121.11",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 77,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 30,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:54:13Z",
+    "country": "uk",
+    "ip_addr": "90.152.38.179",
+    "port": 1080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 67,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 31,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:54:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.97",
+    "port": 8081,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 35,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 32,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:54:13Z",
+    "country": "china",
+    "ip_addr": "124.88.67.22",
+    "port": 843,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 33,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:53:13Z",
+    "country": "china",
+    "ip_addr": "124.88.67.32",
+    "port": 843,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 34,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:53:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.98",
+    "port": 90,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 28,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 35,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:52:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.98",
+    "port": 8081,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 25,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 36,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:51:13Z",
+    "country": "russia",
+    "ip_addr": "83.221.208.217",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 80,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 37,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:51:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.97",
+    "port": 8091,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 27,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 38,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:51:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.98",
+    "port": 8086,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 27,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 39,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:50:13Z",
+    "country": "portugal",
+    "ip_addr": "178.166.41.225",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 94,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 40,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:50:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.98",
+    "port": 82,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 27,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 41,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:50:13Z",
+    "country": "serbia",
+    "ip_addr": "92.42.249.229",
+    "port": 6666,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 58,
+    "connect_qual": 37
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 42,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:50:13Z",
+    "country": "usa",
+    "ip_addr": "12.41.141.10",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 79,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 43,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:49:13Z",
+    "country": "usa",
+    "ip_addr": "192.25.162.203",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "medium",
+    "speed_qual": 4,
+    "connect_qual": 79
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 44,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:49:13Z",
+    "country": "china",
+    "ip_addr": "124.88.67.20",
+    "port": 843,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 45,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:49:13Z",
+    "country": "indonesia",
+    "ip_addr": "182.253.33.109",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 71,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 46,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:48:13Z",
+    "country": "china",
+    "ip_addr": "124.88.67.22",
+    "port": 81,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 47,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:48:13Z",
+    "country": "azerbaijan",
+    "ip_addr": "94.20.61.124",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 48,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:47:13Z",
+    "country": "china",
+    "ip_addr": "124.88.67.24",
+    "port": 843,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 90,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 49,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:47:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.97",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 27,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 50,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:46:13Z",
+    "country": "china",
+    "ip_addr": "120.52.73.97",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 28,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 51,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:44:13Z",
+    "country": "china",
+    "ip_addr": "124.88.67.22",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 52,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:43:10Z",
+    "country": "thailand",
+    "ip_addr": "49.231.150.233",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 90,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 53,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:43:10Z",
+    "country": "china",
+    "ip_addr": "120.52.73.98",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 27,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 54,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:42:10Z",
+    "country": "china",
+    "ip_addr": "120.52.73.98",
+    "port": 8090,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 27,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 55,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:42:10Z",
+    "country": "hong kong",
+    "ip_addr": "113.253.13.205",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 56,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:40:10Z",
+    "country": "indonesia",
+    "ip_addr": "103.28.227.26",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 2,
+    "connect_qual": 78
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 57,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:38:10Z",
+    "country": "korea",
+    "ip_addr": "210.101.131.232",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 54,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 58,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:38:10Z",
+    "country": "china",
+    "ip_addr": "124.88.67.14",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 59,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:37:10Z",
+    "country": "china",
+    "ip_addr": "59.107.26.220",
+    "port": 10000,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 43,
+    "connect_qual": 94
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 60,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:37:10Z",
+    "country": "canada",
+    "ip_addr": "142.0.128.217",
+    "port": 8088,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 2,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 61,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:37:10Z",
+    "country": "mexico",
+    "ip_addr": "189.202.216.137",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 46,
+    "connect_qual": 38
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 62,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:35:10Z",
+    "country": "brazil",
+    "ip_addr": "177.43.72.251",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 37,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 63,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:34:10Z",
+    "country": "europe",
+    "ip_addr": "150.129.179.154",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 32,
+    "connect_qual": 94
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 64,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:33:10Z",
+    "country": "indonesia",
+    "ip_addr": "112.78.178.2",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 90,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 65,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:33:10Z",
+    "country": "china",
+    "ip_addr": "120.52.73.97",
+    "port": 87,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 29,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 66,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:32:10Z",
+    "country": "china",
+    "ip_addr": "120.52.21.132",
+    "port": 8082,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 23,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 67,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:32:10Z",
+    "country": "usa",
+    "ip_addr": "184.49.233.234",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "medium",
+    "speed_qual": 77,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 68,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:32:10Z",
+    "country": "china",
+    "ip_addr": "120.52.73.97",
+    "port": 8086,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 32,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 69,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:30:10Z",
+    "country": "china",
+    "ip_addr": "120.52.73.97",
+    "port": 90,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 27,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 70,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:29:10Z",
+    "country": "usa",
+    "ip_addr": "137.135.166.225",
+    "port": 8147,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 65,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 71,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:26:10Z",
+    "country": "hong kong",
+    "ip_addr": "113.252.236.96",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 94,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 72,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:25:10Z",
+    "country": "uk",
+    "ip_addr": "80.1.116.80",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 55,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 73,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:24:10Z",
+    "country": "colombia",
+    "ip_addr": "190.121.138.162",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 82,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 74,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:18:10Z",
+    "country": "china",
+    "ip_addr": "101.200.143.168",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 39,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 75,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:18:10Z",
+    "country": "russia",
+    "ip_addr": "217.23.90.10",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 76,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 76,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:17:10Z",
+    "country": "china",
+    "ip_addr": "182.48.113.11",
+    "port": 8088,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 35,
+    "connect_qual": 93
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 77,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:14:10Z",
+    "country": "germany",
+    "ip_addr": "45.32.23.218",
+    "port": 5566,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 8,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 78,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T19:09:10Z",
+    "country": "usa",
+    "ip_addr": "168.63.24.174",
+    "port": 8133,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 67,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 79,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:59:10Z",
+    "country": "mexico",
+    "ip_addr": "201.166.152.114",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 89,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 80,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:58:10Z",
+    "country": "china",
+    "ip_addr": "124.88.67.22",
+    "port": 83,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 81,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:54:10Z",
+    "country": "indonesia",
+    "ip_addr": "182.253.19.90",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 67,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 82,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:51:10Z",
+    "country": "hong kong",
+    "ip_addr": "58.176.46.248",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 95,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 83,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:49:10Z",
+    "country": "china",
+    "ip_addr": "124.88.67.81",
+    "port": 843,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 84,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:48:10Z",
+    "country": "spain",
+    "ip_addr": "212.80.167.93",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 44,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 85,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:44:10Z",
+    "country": "china",
+    "ip_addr": "120.76.203.31",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 64,
+    "connect_qual": 75
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 86,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:43:10Z",
+    "country": "iraq",
+    "ip_addr": "31.25.141.148",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 82,
+    "connect_qual": 35
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 87,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:35:10Z",
+    "country": "indonesia",
+    "ip_addr": "210.211.18.140",
+    "port": 808,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 71,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 88,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:35:10Z",
+    "country": "europe",
+    "ip_addr": "185.23.142.89",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 95,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 89,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:30:10Z",
+    "country": "china",
+    "ip_addr": "124.88.67.19",
+    "port": 83,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 82,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 90,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:20:10Z",
+    "country": "usa",
+    "ip_addr": "199.116.113.206",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 11,
+    "connect_qual": 39
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 91,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:20:10Z",
+    "country": "brazil",
+    "ip_addr": "177.70.23.156",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 24,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 92,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:19:10Z",
+    "country": "china",
+    "ip_addr": "124.88.67.19",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 93,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:17:10Z",
+    "country": "singapore",
+    "ip_addr": "112.140.186.170",
+    "port": 808,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 79,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 94,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:16:10Z",
+    "country": "china",
+    "ip_addr": "124.88.67.54",
+    "port": 843,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 88,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 95,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:13:10Z",
+    "country": "china",
+    "ip_addr": "60.190.179.178",
+    "port": 8998,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 15,
+    "connect_qual": 94
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 96,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:11:10Z",
+    "country": "serbia",
+    "ip_addr": "212.200.126.226",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 85,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 97,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:11:10Z",
+    "country": "thailand",
+    "ip_addr": "180.183.255.193",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 58,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 98,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T18:09:10Z",
+    "country": "south africa",
+    "ip_addr": "41.242.90.3",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 77,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 99,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T17:48:10Z",
+    "country": "kyrgyzstan",
+    "ip_addr": "158.181.20.117",
+    "port": 8081,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 67,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 100,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T17:39:10Z",
+    "country": "germany",
+    "ip_addr": "78.47.49.183",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 8,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 101,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T17:31:10Z",
+    "country": "russia",
+    "ip_addr": "193.150.121.67",
+    "port": 4444,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 91,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 102,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T23:27:10Z",
+    "country": "mexico",
+    "ip_addr": "201.131.126.11",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 87,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 103,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T23:19:10Z",
+    "country": "russia",
+    "ip_addr": "178.62.88.50",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 89,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 104,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T23:15:10Z",
+    "country": "indonesia",
+    "ip_addr": "103.4.165.244",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 86,
+    "connect_qual": 51
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 105,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T23:11:10Z",
+    "country": "indonesia",
+    "ip_addr": "183.91.87.36",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 92,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 106,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T23:05:10Z",
+    "country": "uk",
+    "ip_addr": "90.152.38.178",
+    "port": 1080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 75,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 107,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T22:44:10Z",
+    "country": "brazil",
+    "ip_addr": "177.5.219.112",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 2,
+    "connect_qual": 86
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 108,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T22:34:10Z",
+    "country": "france",
+    "ip_addr": "46.218.85.101",
+    "port": 3129,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 42,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 109,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T22:30:11Z",
+    "country": "venezuela",
+    "ip_addr": "186.91.239.233",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 26,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 110,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T22:22:11Z",
+    "country": "germany",
+    "ip_addr": "136.243.22.27",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 36,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 111,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T22:14:11Z",
+    "country": "russia",
+    "ip_addr": "188.113.138.238",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 88,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 112,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T21:25:11Z",
+    "country": "china",
+    "ip_addr": "218.76.106.78",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 113,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T21:25:11Z",
+    "country": "venezuela",
+    "ip_addr": "190.79.147.163",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 9,
+    "connect_qual": 90
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 114,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T21:21:11Z",
+    "country": "france",
+    "ip_addr": "178.32.218.91",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 45,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 115,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T21:17:11Z",
+    "country": "indonesia",
+    "ip_addr": "119.252.160.34",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 70,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 116,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T21:03:11Z",
+    "country": "china",
+    "ip_addr": "218.29.111.106",
+    "port": 9999,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 42,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 117,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T21:02:11Z",
+    "country": "russia",
+    "ip_addr": "82.151.117.162",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 73,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 118,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T20:48:11Z",
+    "country": "netherlands",
+    "ip_addr": "82.139.108.47",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 95,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 119,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T20:33:11Z",
+    "country": "uk",
+    "ip_addr": "128.199.92.163",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 21,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 120,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T06:14:11Z",
+    "country": "india",
+    "ip_addr": "202.56.203.40",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 58,
+    "connect_qual": 75
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 121,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T06:14:11Z",
+    "country": "thailand",
+    "ip_addr": "110.78.161.106",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 67,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 122,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T06:03:11Z",
+    "country": "usa",
+    "ip_addr": "204.29.115.149",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 46,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 123,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T05:51:11Z",
+    "country": "china",
+    "ip_addr": "124.133.230.254",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 26,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 124,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T05:42:11Z",
+    "country": "indonesia",
+    "ip_addr": "202.138.226.146",
+    "port": 1111,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 79,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 125,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T05:31:11Z",
+    "country": "ghana",
+    "ip_addr": "80.87.81.102",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 83,
+    "connect_qual": 93
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 126,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T05:27:11Z",
+    "country": "hong kong",
+    "ip_addr": "118.141.41.84",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 94,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 127,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T05:25:11Z",
+    "country": "brazil",
+    "ip_addr": "177.39.186.59",
+    "port": 8008,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 76,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 128,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T05:22:11Z",
+    "country": "seychelles",
+    "ip_addr": "41.79.60.202",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 55,
+    "connect_qual": 93
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 129,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T05:07:11Z",
+    "country": "china",
+    "ip_addr": "113.107.57.76",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 27,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 130,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T04:55:11Z",
+    "country": "china",
+    "ip_addr": "121.248.112.20",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 2,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 131,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T04:50:11Z",
+    "country": "indonesia",
+    "ip_addr": "222.124.129.179",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 74,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 132,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T04:45:11Z",
+    "country": "china",
+    "ip_addr": "118.144.151.145",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 81,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 133,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T04:35:11Z",
+    "country": "china",
+    "ip_addr": "124.88.67.10",
+    "port": 81,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 92,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 134,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T04:17:11Z",
+    "country": "china",
+    "ip_addr": "124.88.67.31",
+    "port": 843,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 135,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T03:54:11Z",
+    "country": "uruguay",
+    "ip_addr": "200.35.153.242",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 84,
+    "connect_qual": 93
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 136,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T03:42:11Z",
+    "country": "china",
+    "ip_addr": "124.42.7.103",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 52,
+    "connect_qual": 77
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 137,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T03:35:11Z",
+    "country": "french polynesia",
+    "ip_addr": "202.90.68.50",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 5,
+    "connect_qual": 78
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 138,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T03:20:11Z",
+    "country": "usa",
+    "ip_addr": "52.192.0.225",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 14,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 139,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T03:16:11Z",
+    "country": "guinea",
+    "ip_addr": "46.101.95.250",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 92,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 140,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T03:08:11Z",
+    "country": "lebanon",
+    "ip_addr": "89.108.165.187",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 59,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 141,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T03:03:11Z",
+    "country": "chile",
+    "ip_addr": "190.151.10.226",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 66,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 142,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T03:01:11Z",
+    "country": "china",
+    "ip_addr": "122.96.59.105",
+    "port": 81,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 83,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 143,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T02:38:11Z",
+    "country": "usa",
+    "ip_addr": "63.150.152.151",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 49,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 144,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T02:25:11Z",
+    "country": "guinea",
+    "ip_addr": "46.101.22.159",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 92,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 145,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T02:23:11Z",
+    "country": "canada",
+    "ip_addr": "207.188.73.155",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 3,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 146,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T02:20:11Z",
+    "country": "usa",
+    "ip_addr": "45.79.140.191",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 33,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 147,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T02:16:11Z",
+    "country": "china",
+    "ip_addr": "182.88.206.166",
+    "port": 8123,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 42,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 148,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T02:09:11Z",
+    "country": "hong kong",
+    "ip_addr": "218.191.247.51",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 95,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 149,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T02:09:11Z",
+    "country": "china",
+    "ip_addr": "42.229.56.172",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 91,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 150,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T01:57:11Z",
+    "country": "germany",
+    "ip_addr": "92.222.107.221",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 68,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 151,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T01:55:11Z",
+    "country": "china",
+    "ip_addr": "124.88.67.83",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 63,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 152,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T01:52:11Z",
+    "country": "india",
+    "ip_addr": "49.205.245.177",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 40,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 153,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T01:34:11Z",
+    "country": "hong kong",
+    "ip_addr": "223.19.212.30",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 91,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 154,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T01:32:11Z",
+    "country": "taiwan",
+    "ip_addr": "60.199.198.24",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 42,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 155,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T01:30:11Z",
+    "country": "usa",
+    "ip_addr": "168.63.24.174",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 64,
+    "connect_qual": 37
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 156,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T01:27:11Z",
+    "country": "usa",
+    "ip_addr": "168.63.20.19",
+    "port": 8124,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 66,
+    "connect_qual": 77
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 157,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T01:16:11Z",
+    "country": "china",
+    "ip_addr": "124.206.209.244",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 62,
+    "connect_qual": 34
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 158,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T01:07:11Z",
+    "country": "russia",
+    "ip_addr": "91.217.42.3",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 81,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 159,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T01:05:11Z",
+    "country": "europe",
+    "ip_addr": "185.15.42.54",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 42,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 160,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T01:03:11Z",
+    "country": "argentina",
+    "ip_addr": "186.1.235.17",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 70,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 161,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T00:56:11Z",
+    "country": "usa",
+    "ip_addr": "173.220.170.242",
+    "port": 7004,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 100,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 162,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T00:48:11Z",
+    "country": "germany",
+    "ip_addr": "178.62.84.228",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 90,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 163,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T00:43:11Z",
+    "country": "china",
+    "ip_addr": "183.141.152.86",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 73,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 164,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T00:37:11Z",
+    "country": "brazil",
+    "ip_addr": "177.190.209.10",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 74,
+    "connect_qual": 75
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 165,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T00:31:11Z",
+    "country": "china",
+    "ip_addr": "222.33.192.238",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 78,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 166,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T00:17:11Z",
+    "country": "argentina",
+    "ip_addr": "200.61.47.14",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 16,
+    "connect_qual": 86
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 167,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T23:53:11Z",
+    "country": "usa",
+    "ip_addr": "78.109.172.231",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 89,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 168,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T23:50:11Z",
+    "country": "zambia",
+    "ip_addr": "197.220.193.137",
+    "port": 443,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 74,
+    "connect_qual": 33
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 169,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-25T23:44:11Z",
+    "country": "indonesia",
+    "ip_addr": "116.197.135.82",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 38,
+    "connect_qual": 74
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 170,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T12:47:12Z",
+    "country": "brazil",
+    "ip_addr": "179.108.32.193",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 73,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 171,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T12:45:12Z",
+    "country": "indonesia",
+    "ip_addr": "182.253.34.235",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 88,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 172,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T12:42:12Z",
+    "country": "china",
+    "ip_addr": "124.88.67.54",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 173,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T12:37:12Z",
+    "country": "indonesia",
+    "ip_addr": "112.78.149.178",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 59,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 174,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T12:27:12Z",
+    "country": "russia",
+    "ip_addr": "46.101.23.211",
+    "port": 3129,
+    "proto": "http",
+    "anonimity": "medium",
+    "speed_qual": 39,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 175,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T12:24:12Z",
+    "country": "brazil",
+    "ip_addr": "187.44.1.54",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 40,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 176,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T12:22:12Z",
+    "country": "canada",
+    "ip_addr": "47.88.195.233",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 71,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 177,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T12:05:12Z",
+    "country": "canada",
+    "ip_addr": "137.74.254.198",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 56,
+    "connect_qual": 77
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 178,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T11:49:12Z",
+    "country": "netherlands",
+    "ip_addr": "137.135.166.225",
+    "port": 8138,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 60,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 179,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T11:48:12Z",
+    "country": "indonesia",
+    "ip_addr": "114.6.34.194",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 59,
+    "connect_qual": 75
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 180,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T11:39:12Z",
+    "country": "india",
+    "ip_addr": "183.82.56.201",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 33,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 181,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T11:35:12Z",
+    "country": "romania",
+    "ip_addr": "168.63.24.174",
+    "port": 8145,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 84,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 182,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T11:25:12Z",
+    "country": "brazil",
+    "ip_addr": "177.152.174.141",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 93,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 183,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T11:01:12Z",
+    "country": "china",
+    "ip_addr": "124.47.6.169",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "medium",
+    "speed_qual": 9,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 184,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T10:58:12Z",
+    "country": "germany",
+    "ip_addr": "92.222.107.50",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 68,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 185,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T10:54:12Z",
+    "country": "europe",
+    "ip_addr": "185.28.193.95",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 7,
+    "connect_qual": 77
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 186,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T10:52:12Z",
+    "country": "hong kong",
+    "ip_addr": "113.255.49.49",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 92,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 187,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T10:48:12Z",
+    "country": "usa",
+    "ip_addr": "52.32.86.152",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 7,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 188,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T10:45:12Z",
+    "country": "china",
+    "ip_addr": "221.226.82.130",
+    "port": 8998,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 37,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 189,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T10:41:12Z",
+    "country": "usa",
+    "ip_addr": "54.213.157.85",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 6,
+    "connect_qual": 79
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 190,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T10:40:12Z",
+    "country": "bangladesh",
+    "ip_addr": "180.211.179.50",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 67,
+    "connect_qual": 75
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 191,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T10:18:12Z",
+    "country": "uk",
+    "ip_addr": "104.41.154.213",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 91,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 192,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T10:14:12Z",
+    "country": "macao",
+    "ip_addr": "202.171.253.72",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 90,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 193,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T10:01:12Z",
+    "country": "brazil",
+    "ip_addr": "187.86.138.126",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 58,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 194,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T09:41:12Z",
+    "country": "france",
+    "ip_addr": "62.210.37.79",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 43,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 195,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T09:40:12Z",
+    "country": "usa",
+    "ip_addr": "104.236.48.178",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 40,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 196,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T09:35:12Z",
+    "country": "indonesia",
+    "ip_addr": "202.147.206.114",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 72,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 197,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T09:33:12Z",
+    "country": "indonesia",
+    "ip_addr": "202.137.25.53",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 80,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 198,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T09:21:12Z",
+    "country": "china",
+    "ip_addr": "220.249.185.178",
+    "port": 9797,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 49,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 199,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T08:56:12Z",
+    "country": "china",
+    "ip_addr": "60.169.78.218",
+    "port": 808,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 59,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 200,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T08:40:12Z",
+    "country": "lithuania",
+    "ip_addr": "86.100.118.44",
+    "port": 81,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 201,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T08:34:12Z",
+    "country": "canada",
+    "ip_addr": "142.0.128.218",
+    "port": 8088,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 39,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 202,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T08:27:12Z",
+    "country": "russia",
+    "ip_addr": "176.194.189.56",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 75,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 203,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T08:26:12Z",
+    "country": "china",
+    "ip_addr": "202.106.16.36",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 45,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 204,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T08:26:12Z",
+    "country": "bangladesh",
+    "ip_addr": "182.160.102.146",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 70,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 205,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T08:19:12Z",
+    "country": "germany",
+    "ip_addr": "149.202.34.104",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 76,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 206,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T08:08:12Z",
+    "country": "colombia",
+    "ip_addr": "181.143.9.91",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 47,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 207,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T07:59:12Z",
+    "country": "brazil",
+    "ip_addr": "177.234.12.202",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 96,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 208,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T07:48:12Z",
+    "country": "madagascar",
+    "ip_addr": "41.188.49.210",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 62,
+    "connect_qual": 93
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 209,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T07:41:12Z",
+    "country": "china",
+    "ip_addr": "61.162.223.41",
+    "port": 9797,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 38,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 210,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T07:37:12Z",
+    "country": "china",
+    "ip_addr": "218.56.132.154",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 84,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 211,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T07:37:12Z",
+    "country": "turkey",
+    "ip_addr": "188.132.226.245",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 57,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 212,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T07:12:12Z",
+    "country": "egypt",
+    "ip_addr": "197.51.39.130",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 68,
+    "connect_qual": 78
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 213,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T07:04:12Z",
+    "country": "kazakhstan",
+    "ip_addr": "92.47.195.250",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 89,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 214,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T06:49:12Z",
+    "country": "indonesia",
+    "ip_addr": "175.103.46.154",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 35,
+    "connect_qual": 94
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 215,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T06:46:12Z",
+    "country": "china",
+    "ip_addr": "124.88.67.10",
+    "port": 843,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 59,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 216,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T17:27:12Z",
+    "country": "usa",
+    "ip_addr": "178.62.89.92",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 94,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 217,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T06:29:12Z",
+    "country": "china",
+    "ip_addr": "218.56.132.158",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 84,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 218,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T06:26:12Z",
+    "country": "china",
+    "ip_addr": "122.96.59.105",
+    "port": 83,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 74,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 219,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T17:22:12Z",
+    "country": "china",
+    "ip_addr": "222.82.222.242",
+    "port": 9999,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 62,
+    "connect_qual": 94
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 220,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T17:21:12Z",
+    "country": "germany",
+    "ip_addr": "92.222.153.211",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 68,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 221,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T06:22:12Z",
+    "country": "netherlands antilles",
+    "ip_addr": "72.252.14.163",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 64,
+    "connect_qual": 37
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 222,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T06:14:12Z",
+    "country": "usa",
+    "ip_addr": "137.135.166.225",
+    "port": 8125,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 84,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 223,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T16:51:12Z",
+    "country": "china",
+    "ip_addr": "218.60.56.95",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 19,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 224,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T16:48:12Z",
+    "country": "bulgaria",
+    "ip_addr": "78.83.201.101",
+    "port": 8081,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 49,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 225,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T16:46:12Z",
+    "country": "china",
+    "ip_addr": "115.236.75.201",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 15,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 226,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T16:30:12Z",
+    "country": "china",
+    "ip_addr": "124.88.67.30",
+    "port": 843,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 69,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 227,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T16:27:12Z",
+    "country": "china",
+    "ip_addr": "125.217.199.148",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 86,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 228,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T16:25:12Z",
+    "country": "venezuela",
+    "ip_addr": "190.199.206.46",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 40,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 229,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T16:24:12Z",
+    "country": "afghanistan",
+    "ip_addr": "61.5.207.102",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 88,
+    "connect_qual": 94
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 230,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T16:20:12Z",
+    "country": "venezuela",
+    "ip_addr": "190.199.99.233",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 38,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 231,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T16:08:12Z",
+    "country": "venezuela",
+    "ip_addr": "190.36.69.93",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 4,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 232,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T16:06:12Z",
+    "country": "georgia",
+    "ip_addr": "213.131.47.194",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 74,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 233,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:57:12Z",
+    "country": "indonesia",
+    "ip_addr": "115.85.66.243",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 2,
+    "connect_qual": 68
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 234,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:53:12Z",
+    "country": "russia",
+    "ip_addr": "92.42.163.198",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 91,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 235,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:51:12Z",
+    "country": "indonesia",
+    "ip_addr": "118.97.15.106",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 41,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 236,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:44:12Z",
+    "country": "new zealand",
+    "ip_addr": "112.109.89.120",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 84,
+    "connect_qual": 93
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 237,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:29:12Z",
+    "country": "china",
+    "ip_addr": "124.88.67.35",
+    "port": 82,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 238,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:20:12Z",
+    "country": "china",
+    "ip_addr": "175.154.229.72",
+    "port": 8998,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 24,
+    "connect_qual": 35
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 239,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:17:12Z",
+    "country": "brazil",
+    "ip_addr": "201.87.244.1",
+    "port": 5555,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 57,
+    "connect_qual": 76
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 240,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:14:12Z",
+    "country": "usa",
+    "ip_addr": "139.255.40.130",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 29,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 241,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:14:12Z",
+    "country": "madagascar",
+    "ip_addr": "41.188.56.105",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 68,
+    "connect_qual": 33
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 242,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:11:12Z",
+    "country": "china",
+    "ip_addr": "124.88.67.35",
+    "port": 83,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 243,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:10:12Z",
+    "country": "china",
+    "ip_addr": "124.88.67.35",
+    "port": 843,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 93,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 244,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:08:12Z",
+    "country": "china",
+    "ip_addr": "218.56.132.156",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 81,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 245,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:08:12Z",
+    "country": "usa",
+    "ip_addr": "63.150.152.151",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 45,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 246,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:05:12Z",
+    "country": "serbia",
+    "ip_addr": "82.114.82.62",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 82,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 247,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T15:00:12Z",
+    "country": "germany",
+    "ip_addr": "62.75.149.134",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 58,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 248,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:57:12Z",
+    "country": "usa",
+    "ip_addr": "69.242.0.187",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 46,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 249,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:54:12Z",
+    "country": "bolivia",
+    "ip_addr": "190.181.18.232",
+    "port": 80,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 2,
+    "connect_qual": 61
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 250,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:54:12Z",
+    "country": "indonesia",
+    "ip_addr": "202.52.12.30",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 75,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 251,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:53:12Z",
+    "country": "china",
+    "ip_addr": "113.200.29.10",
+    "port": 9999,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 86,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 252,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:49:12Z",
+    "country": "russia",
+    "ip_addr": "78.138.128.63",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 73,
+    "connect_qual": 93
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 253,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:47:12Z",
+    "country": "usa",
+    "ip_addr": "168.63.20.19",
+    "port": 8137,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 90,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 254,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:47:12Z",
+    "country": "russia",
+    "ip_addr": "46.16.226.10",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 68,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 255,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:43:12Z",
+    "country": "russia",
+    "ip_addr": "94.231.116.134",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 69,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 256,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:42:12Z",
+    "country": "russia",
+    "ip_addr": "78.36.1.169",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 92,
+    "connect_qual": 96
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 257,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:41:12Z",
+    "country": "canada",
+    "ip_addr": "137.117.227.221",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 51,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 258,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:38:12Z",
+    "country": "venezuela",
+    "ip_addr": "201.242.42.69",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 36,
+    "connect_qual": 95
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 259,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:36:12Z",
+    "country": "sweden",
+    "ip_addr": "168.63.24.174",
+    "port": 8132,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 69,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 260,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:25:12Z",
+    "country": "france",
+    "ip_addr": "176.31.99.80",
+    "port": 2222,
+    "proto": "http",
+    "anonimity": "medium",
+    "speed_qual": 25,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 261,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T14:12:12Z",
+    "country": "china",
+    "ip_addr": "59.78.45.37",
+    "port": 1080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 79,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 262,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T13:55:12Z",
+    "country": "usa",
+    "ip_addr": "45.65.11.53",
+    "port": 3128,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 60,
+    "connect_qual": 93
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 263,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T13:55:13Z",
+    "country": "venezuela",
+    "ip_addr": "190.206.8.66",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high",
+    "speed_qual": 38,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 264,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T13:54:13Z",
+    "country": "china",
+    "ip_addr": "61.158.187.157",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 69,
+    "connect_qual": 75
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 265,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T13:14:13Z",
+    "country": "hungary",
+    "ip_addr": "37.191.41.113",
+    "port": 8080,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 42,
+    "connect_qual": 36
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 266,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T13:06:13Z",
+    "country": "china",
+    "ip_addr": "219.150.242.54",
+    "port": 9999,
+    "proto": "http",
+    "anonimity": "low",
+    "speed_qual": 2,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 267,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T12:59:13Z",
+    "country": "usa",
+    "ip_addr": "137.135.166.225",
+    "port": 8140,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 71,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 268,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T12:57:13Z",
+    "country": "romania",
+    "ip_addr": "94.177.242.57",
+    "port": 8118,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 43,
+    "connect_qual": 100
+  }
+},
+{
+  "model": "prag.proxy",
+  "pk": 269,
+  "fields": {
+    "source": "hidemyass",
+    "scraped_at": "2016-11-26T20:04:03Z",
+    "updated_at": "2016-11-26T12:51:13Z",
+    "country": "romania",
+    "ip_addr": "137.135.166.225",
+    "port": 8122,
+    "proto": "http",
+    "anonimity": "high+ka",
+    "speed_qual": 66,
+    "connect_qual": 100
+  }
+}
+]
